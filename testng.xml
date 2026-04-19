@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+	<test name="FormTest" enabled="false">
+		<classes>
+			<class name="tests.FormTest" />
+		</classes>
+	</test>
+
+	<test name="RadioTest" enabled="false">
+		<classes>
+			<class name="tests.RadioTest" />
+		</classes>
+	</test>
+
+	<test name="CheckBoxTest" enabled="false">
+		<classes>
+			<class name="tests.CheckBoxTest" />
+		</classes>
+	</test>
+	
+	<test name="SelectMenuTest" enabled="true">
+		<classes>
+			<class name="tests.SelectMenuTest" />
+		</classes>
+	</test>
+
+</suite>
