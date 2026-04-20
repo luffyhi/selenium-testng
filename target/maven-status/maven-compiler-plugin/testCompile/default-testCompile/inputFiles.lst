@@ -1,10 +1,12 @@
 D:\udemy-selenium\seleniumTestNG\src\test\java\applicationUtilities\JSExecutor.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\baseUtilities\BaseLibrary.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\excelUtilities\ExcelUtility.java
+D:\udemy-selenium\seleniumTestNG\src\test\java\pages\AlertsPage.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\pages\CheckBoxPage.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\pages\FormPage.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\pages\RadioPage.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\pages\SelectMenuPage.java
+D:\udemy-selenium\seleniumTestNG\src\test\java\tests\AlertsTest.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\tests\CheckBoxTest.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\tests\FormTest.java
 D:\udemy-selenium\seleniumTestNG\src\test\java\tests\RadioTest.java

@@ -20,10 +20,16 @@
 			<class name="tests.CheckBoxTest" />
 		</classes>
 	</test>
-	
-	<test name="SelectMenuTest" enabled="true">
+
+	<test name="SelectMenuTest" enabled="false">
 		<classes>
 			<class name="tests.SelectMenuTest" />
+		</classes>
+	</test>
+	
+	<test name="AlertsTest" enabled="true">
+		<classes>
+			<class name="tests.AlertsTest" />
 		</classes>
 	</test>
 
